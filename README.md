@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu me chamo Fabio Lucas</h1>
-<h3 align="center">Apaixonado por buscar conhecimento na área de desenvolvimento e usá-lo para resolver os desafios que sejam necessários!</h3>
+<h3 align="center">Apaixonado em buscar conhecimento na área de tecnlogia e usá-lo para resolver os desafios que sejam necessários!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiolucassc&label=Profile%20views&color=0e75b6&style=flat" alt="fabiolucassc" /> </p>
 
